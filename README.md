@@ -86,6 +86,7 @@ Hasil pada yes.pdf :
 Jawab :
 
 Display filter : ftp contains RETR
+
 ![alt text](https://lh6.googleusercontent.com/CpT0pm7bGrITNTMX6I-h5Ug6X7uzJYLqVD2W3aTlfltCNICNrFLXGwr4Mc_90wdOHqaPegkCh1mkLqpep6jIbXHuL5HzfyuRJGNJdEz3guPbw8CuOzADbp_oSJUHl8fA6lxTbZlD)
 
 File Readme dan licence.txt
