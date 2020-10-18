@@ -8,6 +8,10 @@ Salim Bin Usman 05111840000104
 
 Jawab :
 
+`http contains testing.mekanis.me`
+![Screenshot_3](https://user-images.githubusercontent.com/55347970/96372061-52147500-118f-11eb-9ed4-90ec9c88793c.png)
+
+
 webserver nya ialah : nginx/1.14.0 (Ubuntu)
 ![alt text](https://lh5.googleusercontent.com/WF7IQ9Hp1XwkcWEGv17HtVkvUrBGgA9MHIq1gvhkDCGrqcFx6fJtVXDoOsK27KmUuvCwRzwIeW6Lve4mGlHpjT9EEA6G-B_xDI0bFzgWrk_0aOSiMniHjYXnki8L5QsVKc1AkHqF)
 
